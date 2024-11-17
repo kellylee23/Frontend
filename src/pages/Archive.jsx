@@ -16,6 +16,7 @@ const Title =styled.div`
   text-align: left;
 `;
 
+
 const Subtitle = styled.div`
     margin-left: 25px;
     margin-top: 13px;
